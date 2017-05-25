@@ -39,6 +39,6 @@ class Centaur
   end
 
   def sleep
-    "NO!"\
+    "NO!"
   end
 end
